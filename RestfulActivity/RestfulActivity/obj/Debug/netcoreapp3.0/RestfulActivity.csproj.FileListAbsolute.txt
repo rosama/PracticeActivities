@@ -87,3 +87,4 @@ C:\Users\Rokia.Osama\Documents\GitHub\PracticeActivities\RestfulActivity\Restful
 C:\Users\Rokia.Osama\Documents\GitHub\PracticeActivities\RestfulActivity\RestfulActivity\obj\Debug\netcoreapp3.0\RestfulActivity.dll
 C:\Users\Rokia.Osama\Documents\GitHub\PracticeActivities\RestfulActivity\RestfulActivity\obj\Debug\netcoreapp3.0\RestfulActivity.pdb
 C:\Users\Rokia.Osama\Documents\GitHub\PracticeActivities\RestfulActivity\RestfulActivity\obj\Debug\netcoreapp3.0\RestfulActivity.genruntimeconfig.cache
+C:\Users\Rokia.Osama\Documents\GitHub\PracticeActivities\RestfulActivity\RestfulActivity\obj\Debug\netcoreapp3.0\RestfulActivity.csproj.AssemblyReference.cache
