@@ -19,7 +19,8 @@ namespace RestfulActivity.Services
         {
             if(product==null)
             throw new ArgumentNullException(nameof(product));
-            product.Id = Guid.NewGuid();
+            if(product.Id==Guid.Empty)
+                product.Id = Guid.NewGuid();
             _context.Products.Add(product);
         }
 

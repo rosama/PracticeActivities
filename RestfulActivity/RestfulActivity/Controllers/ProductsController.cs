@@ -107,12 +107,7 @@ namespace RestfulActivity.Controllers
                 or.success = true;
                 return NotFound(or);
             }
-            if (!_productReprository.ProductExists(productId))
-            {
-                or.message = "product ID doesn't exist";
-                or.success = true;
-                return NotFound(or);
-            }
+           
             var productFromRepo = _productReprository.GetProduct(productId);
             if (productFromRepo == null)
             {

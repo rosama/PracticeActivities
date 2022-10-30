@@ -7,7 +7,7 @@ namespace RestfulActivity.Entities
     public class Products
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+      //  [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Guid Id { get; set; }
         public string Name { get; set; }
         [Column(TypeName = "decimal(18,4)")]

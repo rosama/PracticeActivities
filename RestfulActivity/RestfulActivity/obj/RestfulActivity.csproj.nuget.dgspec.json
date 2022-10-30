@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rokia.Osama\\source\\repos\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj": {}
+    "C:\\Users\\Rokia.Osama\\Documents\\GitHub\\PracticeActivities\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rokia.Osama\\source\\repos\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj": {
+    "C:\\Users\\Rokia.Osama\\Documents\\GitHub\\PracticeActivities\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rokia.Osama\\source\\repos\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj",
+        "projectUniqueName": "C:\\Users\\Rokia.Osama\\Documents\\GitHub\\PracticeActivities\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj",
         "projectName": "RestfulActivity",
-        "projectPath": "C:\\Users\\Rokia.Osama\\source\\repos\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj",
+        "projectPath": "C:\\Users\\Rokia.Osama\\Documents\\GitHub\\PracticeActivities\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj",
         "packagesPath": "C:\\Users\\Rokia.Osama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rokia.Osama\\source\\repos\\RestfulActivity\\RestfulActivity\\obj\\",
+        "outputPath": "C:\\Users\\Rokia.Osama\\Documents\\GitHub\\PracticeActivities\\RestfulActivity\\RestfulActivity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rokia.Osama\\AppData\\Roaming\\NuGet\\NuGet.Config",

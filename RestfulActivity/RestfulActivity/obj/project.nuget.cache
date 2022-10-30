@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVdtAoyP8tyTKDppTPyCLDnWY2bzKyFW8fGLHl3zY8aGYsNQtgtQ0aqLgElHPdQ4oJHzrNsGst/CpLkFeYspnQ==",
+  "dgSpecHash": "LzOYhkD7K7O60kAvJLxsYESSeS0Tnr+1TAeDiphYHb5J/q2yPqxG9YbF/5xMJCW1U6hMppBpDAiXZDaCL9nK2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rokia.Osama\\source\\repos\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj",
+  "projectFilePath": "C:\\Users\\Rokia.Osama\\Documents\\GitHub\\PracticeActivities\\RestfulActivity\\RestfulActivity\\RestfulActivity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rokia.Osama\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Rokia.Osama\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

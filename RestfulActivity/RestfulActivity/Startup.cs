@@ -64,8 +64,7 @@ namespace RestfulActivity
             services.AddDbContext<ProductsContext>(o =>
             {
 
-                o.UseSqlServer(
-@"Server = localhost;Database=Products;user = sa;Password = Xyz789789789;");
+                o.UseSqlServer(this.Configuration.GetConnectionString("ConnectionString"));
             });
         }
 
